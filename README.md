@@ -1,6 +1,6 @@
 # Investor Risk Tolerance Prediction using Machine Learning
 
-[Click here](https://risktolerance-app.streamlit.app/) to access the deployed web app.
+[Click here](https://riskmodelling-app.streamlit.app/) to access the deployed web app.
 
 ## About
 Financial investments can be risky,  risk-free, or anywhere in between. How people choose to invest depends on their risk appetite or risk tolerance. People with higher risk tolerance have a propensity to make risky investments.
