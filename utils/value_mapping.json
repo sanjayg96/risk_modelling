@@ -1,0 +1,38 @@
+{
+    "education": {
+        "No grades completed": -1,
+        "1st grade": 1,
+        "2nd grade": 2,
+        "3rd grade": 3,
+        "4th grade": 4,
+        "5th grade": 5,
+        "6th grade": 6,
+        "7th grade": 7,
+        "8th grade": 8,
+        "9th grade": 9,
+        "10th grade": 10,
+        "11th grade": 11,
+        "12th grade": 12,
+        "1 year of college": 13,
+        "2 years of college": 14,
+        "3 years of college": 15,
+        "4 years of college": 16,
+        "Graduate School": 17
+    },
+    "married": {
+        "Married": 1,
+        "Single": 2
+    },
+    "occupation_category": {
+        "Not working: Student/homemaker/retired": 3,
+        "Unemployed": 4,
+        "Work for someone else": 1,
+        "Self-Employed/Partnership": 2
+    },
+    "occupation_classification": {
+        "Managerial/Professional": 1,
+        "Technical/Sales/Services": 2,
+        "Others": 3,
+        "Not working": 4
+    }
+}
